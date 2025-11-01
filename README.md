@@ -20,3 +20,10 @@ The dataset contains records of 500 customers, with attributes such as:
 - `visits_per_month` — Frequency of station visits per month  
 - `loyalty_score` — Numeric measure of customer loyalty  
 - `preferred_fuel`, `payment_method`, `location_type` — Categorical attributes representing customer preferences
+
+## Tools and Technologies
+- **Language:** Python  
+- **Environment:** Jupyter Notebook  
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
+- **Visualization:** Matplotlib & Seaborn  
+- **Modeling:** K-Means Clustering  
