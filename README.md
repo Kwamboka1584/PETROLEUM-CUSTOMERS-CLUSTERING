@@ -42,3 +42,13 @@ The project follows a structured Data Science pipeline:
 
 ## Visualizations
 Below are some of the visualizations from the project.
+
+
+
+## Key Findings
+- **Five distinct customer segments (k=5)** were identified.  
+- High-spend, high-loyalty customers represent a small but valuable segment.  
+- Urban customers tend to spend more and visit more frequently than rural ones.  
+- Payment method and preferred fuel type influence spending and loyalty patterns.  
+- Silhouette Score = 0.176 indicates moderate cluster separation, suitable for behavioral grouping.
+
