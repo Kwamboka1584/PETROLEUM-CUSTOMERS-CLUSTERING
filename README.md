@@ -39,3 +39,6 @@ The project follows a structured Data Science pipeline:
    - Assign customers to clusters.  
 6. **Cluster Profiling & Interpretation** – Describe the key traits of each cluster.  
 7. **Insights & Recommendations** – Translate findings into actionable business strategies.  
+
+## Visualizations
+Below are some of the visualizations from the project.
