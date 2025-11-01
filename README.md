@@ -27,3 +27,15 @@ The dataset contains records of 500 customers, with attributes such as:
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Visualization:** Matplotlib & Seaborn  
 - **Modeling:** K-Means Clustering  
+
+## Project Workflow
+The project follows a structured Data Science pipeline:
+1. **Business Understanding** – Define the business need and goals.  
+2. **Data Understanding** – Load, inspect, and summarize the dataset.  
+3. **Exploratory Data Analysis (EDA)** – Identify trends and correlations among customer features.  
+4. **Data Preparation** – Handle missing values, encode categorical variables, and scale numerical features.
+5. **Modeling (K-Means Clustering)** –  
+   - Determine optimal clusters using Elbow & Silhouette methods.  
+   - Assign customers to clusters.  
+6. **Cluster Profiling & Interpretation** – Describe the key traits of each cluster.  
+7. **Insights & Recommendations** – Translate findings into actionable business strategies.  
