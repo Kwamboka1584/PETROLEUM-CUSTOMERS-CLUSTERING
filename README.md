@@ -43,6 +43,21 @@ The project follows a structured Data Science pipeline:
 ## Visualizations
 Below are some of the visualizations from the project.
 
+i. Numerical Feature Distribution
+
+![Numeric Feature](Images/Numerical%20feature%20distributions.png)
+
+ii. Correlation matrix of numeric features
+
+![Correlation](Images/Correlation%20matrix%20for%20numeric%20features.png)
+
+iii. Customer Loyalty vs monthly spend
+
+![Loyalty](Images/Customer%20Loyalty%20vs%20monthly%20spend%20by%20fuel%20type.png)
+
+iv. Cluster profile comparison
+
+![cluster](Images/Cluster%20profile%20comparison.png)
 
 
 ## Key Findings
@@ -52,3 +67,13 @@ Below are some of the visualizations from the project.
 - Payment method and preferred fuel type influence spending and loyalty patterns.  
 - Silhouette Score = 0.176 indicates moderate cluster separation, suitable for behavioral grouping.
 
+## Recommendations
+- **Target high-value customers** with premium loyalty programs.  
+- **Upsell fuel bundles** to moderate-spend, loyal customers.  
+- **Encourage digital payments** (like M-Pesa) through discounts or loyalty points.  
+- **Personalize marketing campaigns** by customer segment preferences.  
+- **Focus on retention** for low-loyalty but high-usage groups through rewards.
+
+## Conclusion
+The K-Means clustering approach successfully segmented Sicah Energies' customers into actionable groups.  
+These insights enable the company to make informed marketing, loyalty, and operational decisions — enhancing overall customer engagement and profitability.
